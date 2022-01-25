@@ -11,3 +11,5 @@ neb-check.py plots the NEB progress. make sure get-fe-forces.sh is in the workin
 
 To run, simply run python neb-check.py
 The code will ask for initial energy (image 00) to calculate the barriers. 
+
+Check-NEB.JPG
